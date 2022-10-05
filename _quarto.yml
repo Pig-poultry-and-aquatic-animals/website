@@ -3,7 +3,7 @@ project:
   output-dir: docs
 
 website:
-  title: "Pig, poultry and aquatic animals"
+  title: "pig, poultry and aquatic animals"
   sidebar:
 #    logo: 
     style: "docked"
